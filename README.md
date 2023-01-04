@@ -1,5 +1,5 @@
-# 💫 < ------ About Me - Caio Sousa  ------ >  
-### Software Engineer [Front-end]
+# < ------ About Me - Caio Sousa  ------ >  
+### 💫 Software Engineer [Front-end]
   [![](https://visitcount.itsvg.in/api?id=CLSCaio&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ### 🌐 Socials
