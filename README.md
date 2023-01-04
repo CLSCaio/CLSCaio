@@ -2,8 +2,7 @@
 < ------ Caio Sousa ------ >
 <br>
 Software Engineer [Front-end]
-<br><br>
-Sou desenvolvedor front-end à 3 anos e estou sempre em <br>busca de novos desafios e conhecimento.
+<br>
 [![](https://visitcount.itsvg.in/api?id=CLSCaio&icon=0&color=6)](https://visitcount.itsvg.in)
 <br><br>
 
