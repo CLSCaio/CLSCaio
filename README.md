@@ -2,22 +2,9 @@
 < ------ Caio Sousa ------ ><br>Software Engineer [Front-end]<br><br>Sou desenvolvedor front-end à 3 anos e estou sempre em <br>busca de novos desafios e conhecimento.
 
 
-## 🌐 Socials:
-  <a href="mailto:caiol.sousa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/caio-sousa-8a0b1a222" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  <a href="https://www.youtube.com/channel/UCdZlM9IBpybu_DY9mgUxDNA" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-   <a href="https://clscaio.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
-  </a>
-  
+## 🌐 Socials:  
   [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiol.sousa@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/l1nq.com/caioSousaLK) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/l1nq.com/caioSousaLK) 
   [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdZlM9IBpybu_DY9mgUxDNA) 
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://clscaio.github.io/) 
   
