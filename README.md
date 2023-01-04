@@ -1,19 +1,22 @@
-# 💫 About Me:
+# 💫 About Me
 ### < ------ Caio Sousa ------ >
-<br>
 ### Software Engineer [Front-end]
-<br>
+
+<br/>
+
 [![](https://visitcount.itsvg.in/api?id=CLSCaio&icon=0&color=6)](https://visitcount.itsvg.in)
+
 <br>
 
-🌐 Socials:  
+🌐 Socials
+<br>
   [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiol.sousa@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/l1nq.com/caioSousaLK) 
   [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdZlM9IBpybu_DY9mgUxDNA) 
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://clscaio.github.io/) 
   <br>
   
-💻 Tech Stack:
+💻 Tech Stack
 <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -27,7 +30,7 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 <br>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=CLSCaio&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CLSCaio&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CLSCaio&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
