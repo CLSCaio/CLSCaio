@@ -1,5 +1,5 @@
-# < ------ About Me - Caio Sousa  ------ >  
-### Software Engineer [Front-end]
+# < ------ About Me - Caio Sousa [Software Engineer [Front-end]]  ------ >  
+### 
   
 
 ### 🌐 Socials
