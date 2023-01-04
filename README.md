@@ -36,7 +36,7 @@
 < ------ Caio Sousa ------ ><br>Software Engineer [Front-end]<br><br>Sou desenvolvedor front-end à 3 anos e estou sempre em <br>busca de novos desafios e conhecimento.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/l1nq.com/caioSousaLK) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@l1nq.com/caioSousaYT) 
 
 # 💻 Tech Stack:
