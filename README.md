@@ -4,6 +4,7 @@
 Software Engineer [Front-end]
 <br><br>
 Sou desenvolvedor front-end à 3 anos e estou sempre em <br>busca de novos desafios e conhecimento.
+[![](https://visitcount.itsvg.in/api?id=CLSCaio&icon=0&color=6)](https://visitcount.itsvg.in)
 <br><br>
 
 🌐 Socials:  
@@ -33,7 +34,7 @@ Sou desenvolvedor front-end à 3 anos e estou sempre em <br>busca de novos desaf
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CLSCaio&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CLSCaio&icon=0&color=6)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
