@@ -22,7 +22,7 @@
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ## 📊 GitHub Stats
-   [![](https://visitcount.itsvg.in/api?id=CLSCaio&icon=0&color=6)](https://visitcount.itsvg.in)
+   [![](https://visitcount.itsvg.in/api?id=CLSCaio&icon=0&color=6)](https://visitcount.itsvg.in) <br/>
   ![](https://github-readme-stats.vercel.app/api?username=CLSCaio&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=CLSCaio&theme=dracula&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CLSCaio&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
