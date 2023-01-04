@@ -31,4 +31,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
-  ![Snake animation](https://github.com/clscaio/clscaio/blob/output/github-contribution-grid-snake.svg)
+  
