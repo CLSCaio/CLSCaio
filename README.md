@@ -30,6 +30,10 @@
    <a href = "https://www.youtube.com/channel/UCdZlM9IBpybu_DY9mgUxDNA" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
+
+  <a href = "https://www.youtube.com/channel/UCdZlM9IBpybu_DY9mgUxDNA" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
 </div> -->
 
 ## 💫 About Me:
@@ -37,9 +41,6 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/l1nq.com/caioSousaLK) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@l1nq.com/caioSousaYT) 
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://clscaio.github.io/) -->
   <a href = "mailto:caiol.sousa@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
@@ -48,6 +49,9 @@
   </a> 
   <a href = "https://www.youtube.com/channel/UCdZlM9IBpybu_DY9mgUxDNA" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+   <a href = "https://clscaio.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank">
   </a>
 
 ## 💻 Tech Stack:
