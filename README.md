@@ -1,7 +1,7 @@
 # < ------ Caio Sousa - Software Engineer [Front-end]  ------ >  
 
 ### 🌐 Socials
-  [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiol.sousa@gmail.com)
+  [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiol.sousadw@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/l1nq.com/caioSousaLK) 
   [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdZlM9IBpybu_DY9mgUxDNA) 
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://clscaio.github.io/) 
