@@ -17,7 +17,7 @@
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-  ![tailwind](https://img.shields.io/badge/tailwind-DB7093?style=for-the-badge&logo=tailwind&logoColor=#38bdf8)
+  ![tailwind](https://img.shields.io/badge/-tailwind-%2338bdf8?style=for-the-badge&logo=tailwind&logoColor=#38bdf8)
 
 ## 📊 GitHub Stats
    [![](https://visitcount.itsvg.in/api?id=CLSCaio&icon=0&color=6)](https://visitcount.itsvg.in) <br/>
