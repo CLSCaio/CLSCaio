@@ -1,4 +1,4 @@
-# < ------ Caio Sousa - Software Engineer [Front-end]  ------ >  
+# < ------ Caio Sousa - Software Engineer ------ >  
 
 ### 🌐 Socials
   [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiol.sousadw@gmail.com)
