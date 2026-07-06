@@ -12,10 +12,21 @@ I am currently evolving as a Full Stack Developer and also studying Game Develop
 
 ### 🌐 Socials
 
-[![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:caiol.sousadw@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/caio-sousa-8a0b1a222/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/channel/UCdZlM9IBpybu_DY9mgUxDNA)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge\&logo=firefox\&logoColor=#FF7139)](https://caio-sousa.vercel.app/)
+<a href="mailto:caiol.sousadw@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/caio-sousa-8a0b1a222/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://www.youtube.com/channel/UCdZlM9IBpybu_DY9mgUxDNA" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+
+<a href="https://caio-sousa.loiacstudios.com.br/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
+</a>
 
 ---
 
